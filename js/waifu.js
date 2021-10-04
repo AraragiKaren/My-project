@@ -1,18 +1,31 @@
 const randomBtn = document.getElementById("random-btn")
 //character's images
 let waifuArr = {
-    "chizuru":"images/Chizuru.jpg",
-    "ruka": "images/ruka.jpg",
-    "sumi": "images/sumi.jpg",
-    "zerotwo": "images/z2.jpg",
-    "gura": "images/gura.jpg",
-    "mai": "images/mai.jpg",
-    "chitanda": "images/eru.jpg",
-    "asuna": "images/Asuna.jpg",
-    "hiyori": "images/hiyori.jpg",
-    "hitagi": "images/hitagi.jpg",
-    "hanekawa": "images/tsubasa.jpg",
-    "violet": "images/violet.jpg"
+    // "chizuru":"images/Chizuru.jpg",
+    // "ruka": "images/ruka.jpg",
+    // "sumi": "images/sumi.jpg",
+    // "zerotwo": "images/z2.jpg",
+    // "gura": "images/gura.jpg",
+    // "mai": "images/mai.jpg",
+    // "chitanda": "images/eru.jpg",
+    // "asuna": "images/Asuna.jpg",
+    // "hiyori": "images/hiyori.jpg",
+    // "hitagi": "images/hitagi.jpg",
+    // "hanekawa": "images/tsubasa.jpg",
+    // "violet": "images/violet.jpg"
+
+    "chizuru":"images2/2.jpg",
+    "ruka": "images2/3.jpg",
+    "sumi": "images2/4.jpg",
+    "zerotwo": "images2/5.jpg",
+    "gura": "images2/6.jpg",
+    "mai": "images2/7.jpg",
+    "chitanda": "images2/8.jpg",
+    "asuna": "images2/9.jpg",
+    "hiyori": "images2/10.jpg",
+    "hitagi": "images2/11.jpg",
+    "hanekawa": "images2/12.jpg",
+    "violet": "images2/1.jpg"
 
 }
 
